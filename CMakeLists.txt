@@ -3,5 +3,5 @@ project(Grader)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp)
-add_executable(Grader ${SOURCE_FILES})
+set(SOURCE_FILES main.cpp classroom.h)
+add_executable(Grader ${SOURCE_FILES} classroom.h)
