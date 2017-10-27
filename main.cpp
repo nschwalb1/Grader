@@ -366,6 +366,10 @@ void initializeApplication(){
     runApplication(myClass);
 }
 
+void loadData(){
+
+}
+
 
 int main() {
 
