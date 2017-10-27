@@ -3,6 +3,10 @@
 #include <vector>
 #include <cstring>
 #include <limits>
+#include <fstream>
+
+#include <boost/archive/text_oarchive.hpp>
+#include <boost/archive/text_iarchive.hpp>
 
 using namespace std;
 #include "classroom.h"
