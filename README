@@ -3,3 +3,7 @@ This program is intended to showcase the use of a hash table and linked lists to
 HOW TO:
 1. Start the program and follow the instruction prompts.
 2. Have fun!
+
+TODO:
+1. Update main.cpp to archive a classroom once a session is complete
+2. Read in and unserialize an archived classroom for a saved session
